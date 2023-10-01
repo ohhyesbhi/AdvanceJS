@@ -1,6 +1,6 @@
 
 
-// 1) Inversion of control 
+// 1) Inversion of control --> We have passed the control of the callback function that how callback function should be actually called
 // 2) Callbackhell --> Causes readibility problem
 
 
