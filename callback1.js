@@ -1,4 +1,4 @@
-// A function which take another function as argument.
+// A function which take another function as an argument.
 
 function fun(x,fn){
     console.log(x)
