@@ -24,3 +24,5 @@ iphone.display()
 
 // here actually this refers to calling context as we can see , iphone is a 
 // calling context that i am calling display in the context of iphone.
+
+// now check who is calling display ? iphone is calling display so this will point to iphone
