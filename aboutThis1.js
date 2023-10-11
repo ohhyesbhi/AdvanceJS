@@ -27,7 +27,7 @@ macbook.display();  // o/p --> {}
 // NOTE -: IN ARROW FUNCTIONS THIS DOES NOT REFER TO CALLING CONTEXT , what happens is in arrow functions this is 
 //         resolved lexically , in below example you can see that
 
-const iphone = {
+const Iphone = {
     name : "iphone",
     price : "100000",
     display : function (){
@@ -42,6 +42,6 @@ const iphone = {
     }
 }
 
-iphone.display()
+Iphone.display()
 
 // o/p -: { name: 'iphone', price: '100000', display: [Function: display] }
