@@ -21,3 +21,4 @@ console.log(res())   // o/p-: 3
 // remembered , so there is a property called as CLOSURE which will be having a key i with value 0 , So what this closure proprerty does is it
 // remembers all those variables that are getting accessed inside your function innerProcess() whose scope might be in the function or might be outside of the 
 // function it remembers the memory location of all of those variables
+
